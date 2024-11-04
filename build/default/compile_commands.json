@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Angel Nieto/Desktop/Workscapes/auid_app/audi_cmake_app/build/default",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/audi_cmake_app.dir/includes_CXX.rsp  -o CMakeFiles\\audi_cmake_app.dir\\audi_cmake_app.cpp.obj -c \"C:\\Users\\Angel Nieto\\Desktop\\Workscapes\\auid_app\\audi_cmake_app\\audi_cmake_app.cpp\"",
+  "file": "C:/Users/Angel Nieto/Desktop/Workscapes/auid_app/audi_cmake_app/audi_cmake_app.cpp",
+  "output": "CMakeFiles/audi_cmake_app.dir/audi_cmake_app.cpp.obj"
+}
+]

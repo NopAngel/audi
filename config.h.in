@@ -1,0 +1,2 @@
+#define audi_cmake_app_VERSION_MAJOR @audi_cmake_app_VERSION_MAJOR@
+#define audi_cmake_app_VERSION_MINOR @audi_cmake_app_VERSION_MINOR@

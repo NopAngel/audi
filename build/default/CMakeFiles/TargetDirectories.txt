@@ -1,0 +1,3 @@
+C:/Users/Angel Nieto/Desktop/Workscapes/auid_app/audi_cmake_app/build/default/CMakeFiles/audi_cmake_app.dir
+C:/Users/Angel Nieto/Desktop/Workscapes/auid_app/audi_cmake_app/build/default/CMakeFiles/edit_cache.dir
+C:/Users/Angel Nieto/Desktop/Workscapes/auid_app/audi_cmake_app/build/default/CMakeFiles/rebuild_cache.dir
