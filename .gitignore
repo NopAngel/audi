@@ -1,6 +1,6 @@
 #build
-./build/
+*./build/
 
 # env
-.env
-.env.local
+*.env
+*.env.local
