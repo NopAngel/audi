@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.10)
 # Set some basic project attributes
 project (audi_cmake_app
 	VERSION 0.1
-	DESCRIPTION "A Hello World Project")
+	DESCRIPTION "Audi, the best platform for playing videos and sounds!")
 
 # This project will output an executable file
 add_executable(${PROJECT_NAME} audi_cmake_app.cpp)

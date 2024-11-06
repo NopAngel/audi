@@ -867,7 +867,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "A Hello World Project"
+			"value" : "Audi, the best platform for playing videos and sounds!"
 		},
 		{
 			"name" : "CMAKE_PROJECT_HOMEPAGE_URL",
